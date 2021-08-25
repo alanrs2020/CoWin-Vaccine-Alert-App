@@ -1,6 +1,8 @@
 # cowinapp
 
-A new Flutter project.
+CoWin VAccine Alert
+
+Get vaccine alerts on time and get vaccinated on time.
 
 ## Getting Started
 
